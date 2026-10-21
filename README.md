@@ -66,7 +66,6 @@ Global category leaders, unicorns, and publicly traded marketing platforms found
 
 Frameworks, playbooks, and strategic resources for rapid audience acquisition, activation, and viral loops.
 
-- [BrandTactics Growth Lab](https://brandtactics.co.il) - Intent-driven user acquisition blueprints, automated content scaling, and data-backed conversion optimization.
 - [Monday.com Startup for Startup](https://www.startupforstartup.com) - Unfiltered scaling playbooks, growth experiment frameworks, and operational insights from hyper-growth leaders.
 - [Wix Studio & Partner Network](https://www.wix.com/studio) - Advanced web design, client management, and agency growth infrastructure.
 
