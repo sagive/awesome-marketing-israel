@@ -93,14 +93,29 @@ Direct-to-consumer strategies, Amazon FBA, Shopify infrastructure, and digital m
 
 ## Communities & Executive Networks
 
-Vibrant professional hubs for networking, peer review, and career acceleration.
+Vibrant professional hubs, Facebook communities, and executive networks for marketing practitioners in Israel.
 
-- [E-Commerce Israel (איקומרס ישראל)](https://www.facebook.com/groups/ecommerceisrael/) - Hub for digital commerce, Amazon, Shopify, and multichannel retail.
-- [Elementor Israel Community (אלמנטור ישראל)](https://www.facebook.com/groups/elementorisrael/) - Professional network of conversion designers, agency builders, and landing page creators.
-- [Marketing Managers Tweet (מנהלי שיווק מצייצים - MMN)](https://mmn.co.il) - Elite community connecting VP Marketings, CMOs, and marketing executives in Israel.
-- [PPC Professionals Israel (קהילת מנהלי קמפיינים)](https://www.facebook.com/groups/ppcisrael/) - Dedicated practical hub for paid media buyers, media planners, and performance analysts.
-- [SEO Israel Professionals (מקצועני קידום אתרים)](https://www.facebook.com/groups/seoisrael/) - Israel's foremost community for organic search strategists and technical SEO specialists.
+### General Marketing, Strategy & Marcom
+- [Marcom Place (מרקום פלייס)](https://www.facebook.com/groups/317913644978472/) - Strategic community for marketing communications directors, brand managers, and Marcom executives.
+- [Marketing Managers Tweet (מנהלי שיווק מצייצים - MMN)](https://www.facebook.com/groups/886184481427252) - Israel's premier executive marketing community connecting 40,000+ CMOs and digital leaders. [Website](https://mmn.co.il).
 - [SuperMarketers (סופרמרקטרס)](https://www.facebook.com/groups/supermarketers/) - Active community of top-tier growth marketers, digital specialists, and founders.
+- [Targetet (טרגטת - מקצועני שיווק דיגיטלי)](https://www.facebook.com/groups/targetet/) - Leading discussion hub for digital strategists, campaign managers, and marketing pros.
+
+### SEO & Organic Search Communities
+- [HaParlament SEO (הפרלמנט - קידום אתרים)](https://www.facebook.com/groups/haparlament.seo) - High-level professional discussions, algorithm analysis, and advanced technical SEO.
+- [Organic SEO Israel by Asael Drayer (קידום אתרים אורגני)](https://www.facebook.com/groups/seo4ous) - Active practical community for search engine optimization experts and webmasters.
+- [SEO Israel Professionals (מקצועני קידום אתרים)](https://www.facebook.com/groups/seoisrael/) - Foundational community for organic search strategists in Israel.
+
+### Paid Media & Performance (PPC)
+- [FAP Israel - Digital Advertising Pros (מקצועני פרסום בדיגיטל)](https://www.facebook.com/groups/FAPIsrael) - Prominent tactical community for media buyers, PPC specialists, and paid advertising practitioners.
+- [PPC Professionals Israel (קהילת מנהלי קמפיינים)](https://www.facebook.com/groups/ppcisrael/) - Practical hub for Google Ads, Meta Ads, and TikTok campaign management.
+
+### Content Marketing, Copywriting & Social
+- [Hatochnistim (התוכניסטים)](https://www.facebook.com/groups/tochenistim) - Israel's foremost community for content creators, copywriters, storytellers, and social community managers.
+
+### E-Commerce & Web Creation
+- [E-Commerce Israel (איקומרס ישראל)](https://www.facebook.com/groups/ecommerceisrael/) - Dedicated hub for digital commerce, Amazon sellers, Shopify merchants, and D2C brands.
+- [Elementor Israel Community (אלמנטור ישראל)](https://www.facebook.com/groups/elementorisrael/) - Professional network of conversion designers, landing page creators, and web builders.
 
 ---
 
@@ -162,6 +177,7 @@ Open-source repositories, automation scripts, and developer tools empowering mod
 Specialized platforms and talent boards for digital marketing, growth, and creative careers in Israel.
 
 - [AllJobs Digital Marketing](https://www.alljobs.co.il/Jobs/Jobs-Marketing.aspx) - The largest job platform in Israel with thousands of active marketing and SEO positions.
+- [Marketing Dream Jobs by MMN (דרים ג'וב - מנהלי שיווק מצייצים)](https://www.facebook.com/groups/marketing.dreamjobs/) - Official career and job board community of MMN featuring exclusive digital marketing positions.
 - [MMN Career Board](https://mmn.co.il) - Executive job listings for marketing managers, VP Marketing, and CMO positions.
 - [Secret Tel Aviv Jobs (Marketing)](https://www.secrettelaviv.com/jobs) - Leading portal for international marketing and growth positions in Tel Aviv startups.
 - [Superdev Marketing & Product Marketing](https://superdev.co.il) - Tech-focused job board specializing in high-tech growth and MarTech positions.
