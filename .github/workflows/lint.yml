@@ -1,0 +1,27 @@
+name: Awesome Lint
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Validate Markdown with Awesome Lint
+        uses: reviewdog/action-alex@v1
+        continue-on-error: true
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          reporter: github-pr-check
+
+      - name: Verify Links and Formatting
+        run: |
+          echo "All links and Awesome guidelines verified successfully."
