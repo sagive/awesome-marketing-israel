@@ -68,8 +68,10 @@ flowchart TD
 Strategic search engine optimization, algorithmic intelligence, technical auditing, and generative engine optimization (GEO).
 
 - [BrandTactics SEO Intelligence](https://brandtactics.co.il/news-category/seo-news/) - Breaking search engine intelligence, Google algorithm shift analysis, GEO, and automated technical SEO.
+- [Asael Drayer](https://asael.digital) - Expert organic search consulting, advanced technical SEO tutorials, and algorithmic ranking strategies in Hebrew.
 - [AskPavel](https://www.askpavel.co.il) - Foundational Hebrew SEO community, technical guides, algorithmic updates, and digital marketing knowledge base founded by Pavel Israelsky.
 - [Daniel Zrihen](https://danielzrihen.co.il) - Exhaustive knowledge base, practical tutorials, and case studies on Hebrew and international SEO.
+- [Shmulik Dorinbaum](https://www.shmul.co.il/) - Veteran SEO consultant, comprehensive guides, penalty recovery, and organic search marketing strategy.
 - [SITEIT](https://siteit.co.il) - Veteran technical SEO agency, custom web development, and digital search strategy in Israel.
 - [Similarweb](https://www.similarweb.com) - World-leading digital market intelligence, competitive search analysis, and web traffic benchmarking (Founded in Tel Aviv).
 - [Skai (formerly Kenshoo)](https://skai.io) - Omnichannel search intelligence and retail media activation engine.
