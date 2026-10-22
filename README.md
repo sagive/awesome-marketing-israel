@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/hero-banner.webp" alt="Awesome Marketing Israel Banner" width="100%" />
+</p>
+
 # Awesome Marketing Israel 🇮🇱 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome digital marketing, SEO, MarTech unicorns, performance advertising, growth hacking, and e-commerce resources in Israel — and by Israeli tech innovators worldwide.
@@ -57,6 +61,7 @@ flowchart TD
 - [Open Source & Code for Marketers](#open-source--code-for-marketers)
 - [Job Boards & Marketing Careers](#job-boards--marketing-careers)
 - [Quick Start Guide](#quick-start-guide)
+- [Star History](#-star-history)
 - [Maintainers](#maintainers)
 - [Contributing](#contributing)
 - [License](#license)
@@ -243,6 +248,16 @@ Specialized platforms and talent boards for digital marketing, growth, and creat
 3. **[פופקורן עם רן הרנבו](https://podcasts.apple.com/il/podcast/%D7%A4%D7%95%D7%A4%D7%A7%D7%95%D7%A8%D7%9F-%D7%A8%D7%9F-%D7%94%D7%A8%D7%A0%D7%91%D7%95/id1162984501)** - Unconventional perspectives on media, storytelling, and brand building.
 
 </details>
+
+---
+
+## 📈 Star History
+
+<p align="center">
+  <a href="https://star-history.com/#sagive/awesome-marketing-israel&Date">
+    <img src="https://api.star-history.com/svg?repos=sagive/awesome-marketing-israel&type=Date" alt="Star History Chart" width="100%" />
+  </a>
+</p>
 
 ---
 
