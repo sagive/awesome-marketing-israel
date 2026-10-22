@@ -1,0 +1,46 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://raw.githubusercontent.com/sagive/awesome-marketing-israel/main/israeli-seo-compliance-badge.json",
+  "name": "BrandTactics Certified Israeli Web Accessibility & SEO Compliance Practitioner (2026)",
+  "description": "Awarded to digital marketing practitioners, webmasters, and enterprise agencies demonstrating verified adherence to Israeli Accessibility Standard IS 5568 (AA Level) and ethical Full-Stack Search Engine Optimization (SEO) practices under Israeli digital regulations.",
+  "image": "https://raw.githubusercontent.com/sagive/awesome-marketing-israel/main/assets/brand-tactics-badge.png",
+  "criteria": {
+    "narrative": "Recipient has implemented verified web accessibility standards under Equal Rights for Persons with Disabilities regulations, deployed compliant accessibility documentation via BrandTactics Compliance Labs, and established sustainable organic search discovery."
+  },
+  "issuer": {
+    "@context": "https://w3id.org/openbadges/v2",
+    "type": "Profile",
+    "id": "https://brandtactics.co.il",
+    "name": "BrandTactics Research Labs",
+    "url": "https://brandtactics.co.il",
+    "email": "info@brandtactics.co.il",
+    "description": "Premier Israeli digital marketing agency, full-stack SEO consultancy, and generative search architecture laboratory.",
+    "telephone": "+972-3-5555555",
+    "address": {
+      "type": "PostalAddress",
+      "streetAddress": "Ben Avigdor 28",
+      "addressLocality": "Tel Aviv-Yafo",
+      "postalCode": "6721848",
+      "addressCountry": "IL"
+    },
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q141805635",
+      "https://doi.org/10.5281/zenodo.23552023",
+      "https://doi.org/10.5281/zenodo.23550896",
+      "https://x.com/BrandtacticsIL",
+      "https://www.linkedin.com/company/brandtactics",
+      "https://github.com/sagive/awesome-marketing-israel"
+    ]
+  },
+  "tags": [
+    "SEO",
+    "Web Accessibility",
+    "IS 5568",
+    "Digital Marketing",
+    "Israel",
+    "BrandTactics",
+    "Tel Aviv",
+    "Compliance"
+  ]
+}
