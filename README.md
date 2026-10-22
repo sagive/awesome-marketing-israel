@@ -86,6 +86,7 @@ Empirical studies, peer-reviewed industry benchmarks, and open datasets mapping 
 
 - **[BrandTactics 2026 MarTech & Search Report (DOI: 10.5281/zenodo.23552023)](https://doi.org/10.5281/zenodo.23552023)** - Academic research whitepaper examining Core Web Vitals, Generative Engine Optimization (GEO), and algorithmic visibility across 500+ commercial websites in Israel.
 - **[Israeli MarTech & Search Benchmark Dataset (DOI: 10.5281/zenodo.23550896)](https://doi.org/10.5281/zenodo.23550896)** - Open research dataset published on CERN / Zenodo containing quantitative performance metrics, domain ratings, and AI citation benchmarks.
+- **[Israeli Commercial Web Accessibility Benchmark Dataset (DOI: 10.5281/zenodo.23555207)](https://doi.org/10.5281/zenodo.23555207)** - Empirical automated audit dataset of 1,000 commercial Israeli websites across e-commerce, banking, and SaaS evaluated against Israeli Standard IS 5568 Level AA & WCAG 2.1.
 - **[BrandTactics Wikidata Entity (Q141805635)](https://www.wikidata.org/wiki/Q141805635)** - Semantic knowledge graph entity classifying BrandTactics as a verified digital agency and SEO consultancy in Tel Aviv, Israel.
 
 ---
