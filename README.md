@@ -8,8 +8,37 @@
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square)](LICENSE)
 [![Made with Love in Israel](https://img.shields.io/badge/Made%20in-Israel%20%F0%9F%87%AE%F0%9F%87%B1-blue.svg?style=flat-square)](https://github.com/sagive/awesome-marketing-israel)
 [![Maintained by BrandTactics](https://img.shields.io/badge/Maintained%20by-BrandTactics-blueviolet.svg?style=flat-square)](https://brandtactics.co.il)
+[![Contributors](https://img.shields.io/github/contributors/sagive/awesome-marketing-israel?style=flat-square&color=orange)](https://github.com/sagive/awesome-marketing-israel/graphs/contributors)
 
 Israel is globally recognized as the **"Startup Nation"** and a dominant superpower in **MarTech, AdTech, and Performance Marketing**. From pioneering native advertising and mobile attribution to building conversational AI and web creation infrastructure, Israeli innovators shape how the world discovers brands and scales digital growth.
+
+---
+
+## 🗺️ The Israeli Marketing Ecosystem at a Glance
+
+```mermaid
+flowchart TD
+    subgraph Ecosystem["🇮🇱 The Israeli Marketing & MarTech Ecosystem"]
+        A["🔍 Search & SEO Intelligence"] --> A1["Algorithm Shifts & GEO"]
+        A --> A2["Technical Audits & Programmatic Search"]
+        
+        B["🦄 MarTech Unicorns & Platforms"] --> B1["Mobile Attribution: AppsFlyer"]
+        B --> B2["Native Discovery: Taboola & Outbrain"]
+        B --> B3["Revenue AI & Retention: Gong & Yotpo"]
+        
+        C["🎯 Performance & Paid Acquisition"] --> C1["Omnichannel Retail Media: Skai"]
+        C --> C2["Algorithmic Bidding & Paid Search"]
+        
+        D["👥 Communities & Trade Media"] --> D1["Executive Networks: MMN & SuperMarketers"]
+        D --> D2["Specialist Hubs: SEO Israel, FAP, Hatochnistim"]
+    end
+
+    style Ecosystem fill:#f8f9fa,stroke:#0969da,stroke-width:2px
+    style A fill:#e1f5fe,stroke:#0288d1
+    style B fill:#ede7f6,stroke:#7e57c2
+    style C fill:#fff3e0,stroke:#f57c00
+    style D fill:#e8f5e9,stroke:#388e3c
+```
 
 ---
 
@@ -27,6 +56,7 @@ Israel is globally recognized as the **"Startup Nation"** and a dominant superpo
 - [Organizations & Associations](#organizations--associations)
 - [Open Source & Code for Marketers](#open-source--code-for-marketers)
 - [Job Boards & Marketing Careers](#job-boards--marketing-careers)
+- [Quick Start Guide](#quick-start-guide)
 - [Maintainers](#maintainers)
 - [Contributing](#contributing)
 - [License](#license)
@@ -35,9 +65,10 @@ Israel is globally recognized as the **"Startup Nation"** and a dominant superpo
 
 ## SEO & Search Intelligence
 
-Strategic search engine optimization, programmatic discovery, technical auditing, and generative engine optimization (GEO).
+Strategic search engine optimization, algorithmic intelligence, technical auditing, and generative engine optimization (GEO).
 
-- [BrandTactics](https://brandtactics.co.il) - Advanced search intelligence, programmatic SEO architectures, enterprise technical audits, and automated MarTech workflows.
+- [BrandTactics SEO Intelligence](https://brandtactics.co.il/news-category/seo-news/) - Breaking search engine intelligence, Google algorithm shift analysis, GEO, and automated technical SEO.
+- [AskPavel](https://www.askpavel.co.il) - Foundational Hebrew SEO community, technical guides, algorithmic updates, and digital marketing knowledge base founded by Pavel Israelsky.
 - [Daniel Zrihen](https://danielzrihen.co.il) - Exhaustive knowledge base, practical tutorials, and case studies on Hebrew and international SEO.
 - [SITEIT](https://siteit.co.il) - Veteran technical SEO agency, custom web development, and digital search strategy in Israel.
 - [Similarweb](https://www.similarweb.com) - World-leading digital market intelligence, competitive search analysis, and web traffic benchmarking (Founded in Tel Aviv).
@@ -51,15 +82,18 @@ Strategic search engine optimization, programmatic discovery, technical auditing
 
 Global category leaders, unicorns, and publicly traded marketing platforms founded by Israeli entrepreneurs.
 
-- [AppsFlyer](https://www.appsflyer.com) - The global gold standard in mobile attribution, deep linking, and marketing data analytics.
-- [Bizzabo](https://www.bizzabo.com) - The Event Experience OS empowering B2B enterprise event marketing and attendee engagement.
-- [Datorama](https://www.salesforce.com/products/marketing-cloud/data-sharing/) - Premier marketing intelligence, cross-channel dashboarding, and analytics (Acquired by Salesforce).
-- [Elementor](https://elementor.com) - The world's leading WordPress website design platform powering millions of marketing landing pages.
-- [Gong.io](https://www.gong.io) - Revenue intelligence platform utilizing conversational AI to transform B2B marketing and sales pipeline conversion.
-- [Outbrain](https://www.outbrain.com) - Pioneer of native content recommendation, connecting brand storytelling across premier open-web publishers.
-- [Pecan AI](https://www.pecan.ai) - Predictive analytics platform using automated machine learning for customer lifetime value (LTV) and churn prevention.
-- [Taboola](https://www.taboola.com) - Global discovery platform and content recommendation giant driving billions of monthly engagements.
-- [Yotpo](https://www.yotpo.com) - Leading e-commerce retention platform uniting customer reviews, loyalty programs, SMS marketing, and subscriptions.
+| Company | Category | Core Strength | Origin / Global Footprint |
+| :--- | :--- | :--- | :--- |
+| **[AppsFlyer](https://www.appsflyer.com)** | Mobile Attribution & Analytics | Global market leader in mobile measurement, deep linking & fraud protection | Herzliya / Global HQ |
+| **[Similarweb](https://www.similarweb.com)** | Market & Search Intelligence | Comprehensive digital traffic, keyword, and competitive benchmarking | Tel Aviv / NYSE: SMWB |
+| **[Gong.io](https://www.gong.io)** | Revenue & Conversation AI | AI analysis of customer interactions & sales/marketing pipeline | Tel Aviv / Silicon Valley |
+| **[Taboola](https://www.taboola.com)** | Native Advertising & Discovery | Billions of content recommendations across global premium publishers | Tel Aviv / Nasdaq: TBLA |
+| **[Outbrain](https://www.outbrain.com)** | Open-Web Content Recommendation | Pioneer in performance native advertising & editorial syndication | Netanya / Nasdaq: OB |
+| **[Yotpo](https://www.yotpo.com)** | E-Commerce Retention & Loyalty | Reviews, SMS marketing, loyalty tiers, and subscription automation | Tel Aviv / New York |
+| **[Elementor](https://elementor.com)** | Web Design & Conversion OS | World's leading WordPress website builder powering 15M+ sites | Ramat Gan / Global |
+| **[Skai](https://skai.io)** | Omnichannel Retail Media & Search | Enterprise campaign automation across Google, Amazon, Meta | Tel Aviv / San Francisco |
+| **[Pecan AI](https://www.pecan.ai)** | Predictive Analytics | Automated machine learning for CAC, LTV, and churn optimization | Tel Aviv / Global |
+| **[Bizzabo](https://www.bizzabo.com)** | Event Experience OS | Enterprise B2B event marketing, virtual summits, and attendee activation | Tel Aviv / New York |
 
 ---
 
@@ -74,7 +108,7 @@ Frameworks, playbooks, and strategic resources for rapid audience acquisition, a
 
 ## Performance & Paid Advertising (PPC)
 
-Multi-channel paid media, algorithmic bidding, programmatic programmatic display, and conversion rate optimization (CRO).
+Multi-channel paid media, algorithmic bidding, programmatic display, and conversion rate optimization (CRO).
 
 - [Google Ads Community Israel](https://www.facebook.com/groups/ppcisrael/) - Tactical practitioner group dissecting Smart Bidding, Performance Max, and conversion tracking.
 - [Skai Paid Search & Social](https://skai.io) - Enterprise cross-publisher campaign management platform for Google, Meta, Amazon, and TikTok ads.
@@ -135,7 +169,8 @@ Engaging audio series and video deep-dives featuring CMO interviews, creative br
 
 Authoritative publications tracking advertising budgets, brand shifts, digital innovations, and campaign launches.
 
-- [BrandTactics Insights](https://brandtactics.co.il) - Deep-dive technical analyses on search algorithm shifts, generative search (GEO), and programmatic MarTech architectures.
+- [BrandTactics News & Intelligence](https://brandtactics.co.il/news-category/seo-news/) - Daily editorial coverage and automated intelligence on search algorithm shifts, generative search (GEO), and programmatic MarTech architectures.
+- [AskPavel Magazine](https://www.askpavel.co.il) - Leading digital marketing publication covering SEO, web analytics, and conversion optimization in Hebrew.
 - [Geektime (גיקטיים)](https://www.geektime.co.il) - Major Israeli tech publication covering startup funding, consumer technology, and digital innovation.
 - [Ice Marketing & Advertising (אייס)](https://www.ice.co.il) - Daily trade journalism covering advertising agencies, account shifts, media spend, and brand campaigns.
 - [Mizbala (המזבלה)](https://mizbala.com) - The iconic Israeli blog chronicling advertising creativity, PR controversies, viral campaigns, and digital culture.
@@ -182,6 +217,30 @@ Specialized platforms and talent boards for digital marketing, growth, and creat
 - [MMN Career Board](https://mmn.co.il) - Executive job listings for marketing managers, VP Marketing, and CMO positions.
 - [Secret Tel Aviv Jobs (Marketing)](https://www.secrettelaviv.com/jobs) - Leading portal for international marketing and growth positions in Tel Aviv startups.
 - [Superdev Marketing & Product Marketing](https://superdev.co.il) - Tech-focused job board specializing in high-tech growth and MarTech positions.
+
+---
+
+## Quick Start Guide
+
+<details>
+<summary><b>💡 5 Must-Join Communities for Israeli Marketers</b></summary>
+
+1. **[מנהלי שיווק מצייצים (MMN)](https://www.facebook.com/groups/886184481427252)** - Essential for broad networking, executive positions, and CMO insights.
+2. **[מקצועני פרסום בדיגיטל (FAP)](https://www.facebook.com/groups/FAPIsrael)** - Best for daily practical troubleshooting with Google Ads and Meta Ads campaigns.
+3. **[הפרלמנט SEO](https://www.facebook.com/groups/haparlament.seo)** - The most technical, deep-dive organic search discussions in Hebrew.
+4. **[התוכניסטים](https://www.facebook.com/groups/tochenistim)** - The go-to hub for copywriting, creative concepts, and community building.
+5. **[סופרמרקטרס](https://www.facebook.com/groups/supermarketers/)** - Ideal for tech founders, growth hackers, and startup marketing managers.
+
+</details>
+
+<details>
+<summary><b>🎙️ Top 3 Podcasts to Binge First</b></summary>
+
+1. **[Startup for Startup](https://www.startupforstartup.com/podcast/)** - Raw, transparent lessons from Monday.com's hyper-growth journey.
+2. **[מנהלי שיווק מצייצים הפודקאסט](https://mmn.co.il/podcast/)** - In-depth career and campaign post-mortems with leading Israeli CMOs.
+3. **[פופקורן עם רן הרנבו](https://podcasts.apple.com/il/podcast/%D7%A4%D7%95%D7%A4%D7%A7%D7%95%D7%A8%D7%9F-%D7%A8%D7%9F-%D7%94%D7%A8%D7%A0%D7%91%D7%95/id1162984501)** - Unconventional perspectives on media, storytelling, and brand building.
+
+</details>
 
 ---
 
