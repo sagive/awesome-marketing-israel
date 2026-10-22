@@ -39,10 +39,11 @@ Strategic search engine optimization, programmatic discovery, technical auditing
 
 - [BrandTactics](https://brandtactics.co.il) - Advanced search intelligence, programmatic SEO architectures, enterprise technical audits, and automated MarTech workflows.
 - [Daniel Zrihen](https://danielzrihen.co.il) - Exhaustive knowledge base, practical tutorials, and case studies on Hebrew and international SEO.
-- [K logic](https://www.klogic.com) - Enterprise growth marketing, organic search strategies, and multi-channel performance data.
+- [SITEIT](https://siteit.co.il) - Veteran technical SEO agency, custom web development, and digital search strategy in Israel.
 - [Similarweb](https://www.similarweb.com) - World-leading digital market intelligence, competitive search analysis, and web traffic benchmarking (Founded in Tel Aviv).
 - [Skai (formerly Kenshoo)](https://skai.io) - Omnichannel search intelligence and retail media activation engine.
 - [Webmaster Israel](http://www.webmaster.org.il) - Veteran Hebrew forum and foundational knowledge repository for webmasters and search marketing.
+- [Sagive SEO](https://sagive.co.il) - Strategic organic search consulting, technical SEO architectures, and Google ranking optimization.
 
 ---
 
