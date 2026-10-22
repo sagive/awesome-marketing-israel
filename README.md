@@ -96,6 +96,8 @@ Essential tools and generators designed for compliance with Israeli digital regu
 
 - **[Accessibility Statement Generator (IS 5568 AA)](https://brandtactics.co.il/accessibility-generator/)** - Free, automated compliance generator producing legally conforming accessibility declarations for Israeli commercial websites under Equal Rights for Persons with Disabilities regulations.
 - **[Privacy Policy Generator (Amendment 13)](https://brandtactics.co.il/privacy-generator/)** - Automated legal policy generator aligned with Israeli Privacy Protection Law (Amendment 13) mandates for data controllers and digital marketers.
+- **[Israeli Accessibility Audit Extension](https://github.com/sagive/israeli-accessibility-extension)** - Open-source Chromium extension for instant DOM audit and compliance verification against Israeli Standard IS 5568 Level AA & WCAG 2.1.
+- **[BrandTactics Tools Ecosystem](https://github.com/sagive/tools.brandtactics.io)** - Official open-source developer hub and web utilities ecosystem for SEO, GEO, and digital marketing tools.
 
 ---
 
